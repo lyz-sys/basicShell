@@ -1,0 +1,5 @@
+.project
+*.patch
+.idea/
+.git/
+.DS_Store
